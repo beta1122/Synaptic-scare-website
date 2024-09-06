@@ -1,0 +1,39 @@
+
+# Build output
+dist/
+build/
+*.log
+
+# Dependency directories
+bower_components/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Misc
+*.tgz
+*.zip
+*.rar
+*.7z
+
+# Other potential ignores
+*.bak
+*.tmp
+*.temp
+*.swp
+
+# SASS/SCSS cache
+.sass-cache/
